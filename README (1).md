@@ -1,4 +1,4 @@
-# Lurniq 2.0 - Adaptive Collaborative Learning Platform
+# Lurniq  - Adaptive Collaborative Learning Platform
 
 Lurniq 2.0 is an intelligent, dynamic learning platform designed to personalize educational content based on your unique learning style (VARK). It features AI-powered content generation, interactive study environments, and real-time collaboration.
 
