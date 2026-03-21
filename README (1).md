@@ -1,6 +1,6 @@
 # Lurniq  - Adaptive Collaborative Learning Platform
 
-Lurniq 2.0 is an intelligent, dynamic learning platform designed to personalize educational content based on your unique learning style (VARK). It features AI-powered content generation, interactive study environments, and real-time collaboration.
+Lurniq  is an intelligent, dynamic learning platform designed to personalize educational content based on your unique learning style (VARK). It features AI-powered content generation, interactive study environments, and real-time collaboration.
 
 **Try out the live platform here:** [https://lurniq.onrender.com/](https://lurniq.onrender.com/)
 
@@ -44,8 +44,8 @@ Lurniq 2.0 is an intelligent, dynamic learning platform designed to personalize 
 
 ### 1. Clone & Frontend Setup
 ```bash
-git clone https://github.com/your-username/lurniq-2.0.git
-cd lurniq-2.0
+git clone https://github.com/your-username/lurniq.git
+cd lurniq
 
 # Install frontend dependencies
 npm install
